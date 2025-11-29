@@ -1,1 +1,1 @@
-A simple and responsive chat app built using  **JavaScript**, **Node.js**, **Express**, **MONGODB**, **REST API's**.
+A simple and responsive chat app built using  **JavaScript**, **EJS**, **CSS**, **Node.js**, **Express**, **MongoDB**, **REST API's**.
